@@ -53,7 +53,7 @@
 
 <h2>References</h2>
 
-<p>1. David, S. et al. Genome-wide prediction of pathogenic gain- and loss-of-function variants from ensemble learning of a diverse feature set. bioRxiv 2022.06.08.495288 (2022).</p>
+<p>1. Stein, D. et al. Genome-wide prediction of pathogenic gain- and loss-of-function variants from ensemble learning of a diverse feature set. bioRxiv 2022.06.08.495288 (2022).</p>
 <p>2.	Ochoa, D. et al. Open Targets Platform: supporting systematic drug-target identification and prioritisation. Nucleic Acids Res 49, D1302-D1310 (2021).</p>
 <p>3.	Kuhn, M., Letunic, I., Jensen, L.J. & Bork, P. The SIDER database of drugs and side effects. Nucleic acids research 44, D1075-D1079 (2016).</p>
 <p>4.	Hamosh, A. et al. Online Mendelian Inheritance in Man (OMIM), a knowledgebase of human genes and genetic disorders. Nucleic Acids Res 30, 52-5 (2002).</p>
