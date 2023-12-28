@@ -50,6 +50,8 @@
 
 <p></p>
 
+<h2>Disclaimer</h2>
+The data product is provided “AS IS”, with no explicit or implied warranties, including, but not limited to, performance, merchantability, or fitness for a particular purpose. The methodology and approach rely on certain assumptions and have inherent limitations, acknowledging that errors no doubt exist.<p></p>
 
 <h2>References</h2>
 
