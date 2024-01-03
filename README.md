@@ -5,7 +5,10 @@
 
 <p>This web application can be used to search for putative therapeutic targets with genetic priority scores and evidence for direction of genetic effect. We included drug indication data from the Open Targets Platform<sup>2</sup> and the Side effect Resource (SIDER) 4.1<sup>3</sup> and mapped all drug indications and genetic phenotypes to phecode integer terms. We have provided evidence of each genetic association, and users can search this website by a gene target or phenotype of interest. We note that these results should be a starting point for users to conduct follow-up analyses, and if a gene and phenotype are not present in this table, this should not be interpreted as a drug target with genetic support against it.</p>
 
-<p>For further details about the methods and analysis behind this study, please see our paper: Duffy, A et al. Development of a human genetics-guided priority score for 19,365 genes and 399 drug indications. Submitted. </p>
+<p>For further details about the methods and analysis behind this study, please see our paper:
+
+   [Duffy, Á. et al. Development of a human genetics-guided priority score for 19,365 genes and 399 drug indications. Nat Genet (2024)](https://www.nature.com/articles/s41588-023-01609-2)
+    </p>
    
 <p>The Genetic Priority Score R shiny app is accessible at: https://rstudio-connect.hpc.mssm.edu/geneticpriorityscore/ </p>
 
